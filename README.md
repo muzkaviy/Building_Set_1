@@ -1,4 +1,1 @@
-# CustomSceneryModTemplate
-Mod template for custom scenery
-
-See https://parkitectnexus.com/modding-wiki for documentation
+# Shyguy's Building Set 1 v1.1
