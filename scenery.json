@@ -13,6 +13,90 @@
 			"color2": "#636363"
 		}
 	},
+"Wall/Half-H/Diag": {
+		"category": "sBuildings 1",
+		"model": "wall_half_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#636363"
+		}
+	},
+"Wall/Half-H": {
+		"category": "sBuildings 1",
+		"model": "wall_half_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#636363"
+		}
+	},
+"Wall-Half/Half-H": {
+		"category": "sBuildings 1",
+		"model": "wall_half_half_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#636363"
+		}
+	},
+"Wall-Half/Half-H/diag": {
+		"category": "sBuildings 1",
+		"model": "wall_half_half_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#636363"
+		}
+	},
+"Roof-Round": {
+		"category": "sBuildings 1",
+		"model": "roof_round",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#bb9c70",
+			"color3": "#bb9c70"
+		}
+	},
+"Roof-Round/Decor": {
+		"category": "sBuildings 1",
+		"model": "round_roof_decor",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
 "Wall/Tunnel Entrance": {
 		"category": "sBuildings 1",
 		"model": "wall_tunnel_entrance",

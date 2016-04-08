@@ -6,7 +6,7 @@
    "IsEnabled" : true,
    "Name" : "shyguy's Building Set 1",
    "Project" : "Custom Scenery.csproj",
-   "Tag" : "v1.1\r\n",
+   "Tag" : "v1.2",
    "ReferencedAssemblies" : [],
-   "Repository" : null
+   "Repository" : "shyguySGW/Building_Set_1"
 }
