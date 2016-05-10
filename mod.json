@@ -1,12 +1,9 @@
 {
    "BaseDir" : "",
    "CompilerVersion" : "v3.5",
-   "CodeFiles" : [],
    "IsDevelopment" : false,
    "IsEnabled" : true,
-   "Name" : "shyguy's Building Set 1",
+   "Name" : "shy-Building Set 1",
    "Project" : "Custom Scenery.csproj",
-   "Tag" : "v1.2",
-   "ReferencedAssemblies" : [],
-   "Repository" : "shyguySGW/Building_Set_1"
+   "Dependencies" : null
 }

@@ -195,6 +195,62 @@
 			"color2": "#636363"
 		}
 	},
+"Wall/Third-H/Slope 1": {
+		"category": "sBuildings 1",
+		"model": "wall_third_H_slope1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#636363"
+		}
+	},
+"Wall/Third-H/Slope 2": {
+		"category": "sBuildings 1",
+		"model": "wall_third_H_slope2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#636363"
+		}
+	},
+"Wall/Third-H/Slope/Diag 1": {
+		"category": "sBuildings 1",
+		"model": "wall_third_H_slope_diag1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#636363"
+		}
+	},
+"Wall/Third-H/Slope/Diag 2": {
+		"category": "sBuildings 1",
+		"model": "wall_third_H_slope_diag2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#636363"
+		}
+	},
 "Wall/Half-H/Slope 2": {
 		"category": "sBuildings 1",
 		"model": "wall_half_H_slope",

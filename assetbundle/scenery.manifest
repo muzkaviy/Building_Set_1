@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2678205000
+CRC: 2125924538
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5e3bcb827493e1c598bf8f5dc9d98d10
+    Hash: ef897f5706a07b4b1c9c27d95adca758
   TypeTreeHash:
     serializedVersion: 2
     Hash: c8419a03ad1ddaf765f64471fb7a23cd
@@ -29,10 +29,12 @@ Assets:
 - Assets/window_medium.obj
 - Assets/Materials/trim_horizMat.mat
 - Assets/Materials/wall_qtr_qtr_H_diagMat.mat
+- Assets/Materials/wall_third_H_slope_diag2Mat.mat
 - Assets/Materials/wall_half_full_HMat.mat
 - Assets/door_double_diag.obj
 - Assets/trim_curve2.obj
 - Assets/wall_half_full_H_slope2.obj
+- Assets/wall_third_H_slope2.obj
 - Assets/Materials/window_medium_muntins_panes_diagMat.mat
 - Assets/Materials/trim_horiz_halfMat.mat
 - Assets/Materials/wall_window_smallMat.mat
@@ -65,6 +67,7 @@ Assets:
 - Assets/Materials/wall_half_half_HMat.mat
 - Assets/Materials/trim_stod_2Mat.mat
 - Assets/Materials/wall_qtr_H_stod_1Mat.mat
+- Assets/Materials/wall_third_H_slope1Mat.mat
 - Assets/Materials/trim_curve2Mat.mat
 - Assets/window_small.obj
 - Assets/Materials/window_large_muntins_only_diagMat.mat
@@ -83,6 +86,7 @@ Assets:
 - Assets/wall_half_half_H.obj
 - Assets/wall_curve15_qrt_H.obj
 - Assets/Materials/trim_halfMat.mat
+- Assets/wall_third_H_slope1.obj
 - Assets/wall_full_H_stod_1.obj
 - Assets/window_small_muntins_panes_noframe.obj
 - Assets/wall_half_window_small.obj
@@ -131,6 +135,7 @@ Assets:
 - Assets/Materials/floor_roof_eighthMat.mat
 - Assets/Materials/wall_half_H_diagMat.mat
 - Assets/Materials/wall_half_half_H_slopeMat.mat
+- Assets/wall_third_H_slope_diag2.obj
 - Assets/wall_full_H_slope2.obj
 - Assets/wall_half_H_slope2.obj
 - Assets/wall_half_H_slope_diag.obj
@@ -177,7 +182,9 @@ Assets:
 - Assets/wall_curve2_full_H.obj
 - Assets/window_large_muntins_panes_only_diag.obj
 - Assets/Materials/wall_full_H_stod_1Mat.mat
+- Assets/wall_third_H_slope_diag1.obj
 - Assets/door_frame_double.obj
+- Assets/Materials/wall_third_H_slope2Mat.mat
 - Assets/window_large_muntins_panes.obj
 - Assets/Materials/floor_roof_curve05_inMat.mat
 - Assets/wall_half_full_H_slope_diag.obj
@@ -277,6 +284,7 @@ Assets:
 - Assets/window_double_diag.obj
 - Assets/trim_diag.obj
 - Assets/door_frame_dbl_diag.obj
+- Assets/Materials/wall_third_H_slope_diag1Mat.mat
 - Assets/floor_roof_curve2_out.obj
 - Assets/door_single_plain.obj
 - Assets/Materials/trim_horiz_diagMat.mat
